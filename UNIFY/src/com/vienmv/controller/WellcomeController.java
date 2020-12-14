@@ -3,7 +3,6 @@ package com.vienmv.controller;
 import java.io.IOException;
 import java.util.List;
 
-import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -18,6 +17,10 @@ import com.vienmv.service.impl.ProductServiceImpl;
 @WebServlet(urlPatterns="/welcome")
 
 public class WellcomeController extends HttpServlet {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	ProductService productService = new ProductServiceImpl();
 	CategoryService cateService = new CategoryServiceImpl();
 	@Override

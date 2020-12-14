@@ -8,11 +8,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.vienmv.dao.ProductDao;
-import com.vienmv.dao.UserDao;
 import com.vienmv.jdbc.JDBCConnection;
 import com.vienmv.model.Category;
 import com.vienmv.model.Product;
-import com.vienmv.model.User;
 import com.vienmv.service.CategoryService;
 import com.vienmv.service.impl.CategoryServiceImpl;
 
