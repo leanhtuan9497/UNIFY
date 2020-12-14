@@ -1,0 +1,24 @@
+
+Dec 14, 2020 17:57:18.805 NEW SESSION
+Dec 14, 2020 17:57:18.805 [2096:3176:1214/175718.804:ERROR:device_event_log_impl.cc(211)] [17:57:18.804] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 14, 2020 17:57:20.81 [2096:8420:1214/175720.080:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2020 17:57:46.234 [2096:8420:1214/175746.233:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2020 18:07:14.374 [1214/180714.372:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Dec 14, 2020 21:45:36.923 NEW SESSION
+Dec 14, 2020 21:45:36.923 [2884:6268:1214/214536.921:ERROR:entry_impl.cc(1075)] No file for 80000016
+Dec 14, 2020 21:45:36.997 [2884:6268:1214/214536.997:ERROR:entry_impl.cc(1075)] No file for 80000014
+Dec 14, 2020 21:45:37.58 [2884:6268:1214/214537.058:ERROR:entry_impl.cc(1075)] No file for 80000013
+Dec 14, 2020 21:45:37.298 [2884:6268:1214/214537.297:ERROR:entry_impl.cc(1075)] No file for 80000012
+Dec 14, 2020 21:45:37.356 [2884:6268:1214/214537.356:ERROR:entry_impl.cc(1075)] No file for 80000010
+Dec 14, 2020 21:45:37.366 [2884:6268:1214/214537.366:ERROR:entry_impl.cc(1075)] No file for 8000000e
+Dec 14, 2020 21:45:37.528 [2884:6268:1214/214537.528:ERROR:entry_impl.cc(1075)] No file for 8000000d
+Dec 14, 2020 21:45:37.539 [2884:6268:1214/214537.539:ERROR:entry_impl.cc(1075)] No file for 8000000b
+Dec 14, 2020 21:45:37.545 [2884:6268:1214/214537.541:ERROR:entry_impl.cc(1075)] No file for 80000009
+Dec 14, 2020 21:45:37.699 [2884:6268:1214/214537.698:ERROR:entry_impl.cc(1075)] No file for 80000007
+Dec 14, 2020 21:45:37.730 [2884:6268:1214/214537.730:ERROR:entry_impl.cc(1075)] No file for 80000005
+Dec 14, 2020 21:45:37.968 [2884:6268:1214/214537.968:ERROR:entry_impl.cc(1075)] No file for 80000004
+Dec 14, 2020 21:45:37.977 [2884:6268:1214/214537.977:ERROR:entry_impl.cc(1075)] No file for 80000003
+Dec 14, 2020 21:45:38.248 [2884:6268:1214/214538.248:ERROR:entry_impl.cc(1075)] No file for 80000002
+Dec 14, 2020 21:45:56.887 [2884:11184:1214/214556.887:ERROR:device_event_log_impl.cc(211)] [21:45:56.888] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 14, 2020 21:55:31.258 [1214/215531.225:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
