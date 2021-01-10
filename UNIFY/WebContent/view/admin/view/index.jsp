@@ -89,17 +89,17 @@
 						</div>
 					</div>
 				</div>
-				<!-- /. ROW  -->
+				<!-- /. ROW  
 				<hr />
 				<script type="text/javascript"
 					src="http://giavangvn.org/GiavangFullScript/dat-gia-vang/Widgets">
 					
 				</script>
 				<noscript>
-					Vui lòng bật javascript để xem <a href="http://giavangvn.org">giá
-						vàng</a>
+					Vui lÃ²ng báº­t javascript Äá» xem <a href="http://giavangvn.org">giÃ¡
+						vÃ ng</a>
 				</noscript>
-				<!-- /. ROW  -->
+				 /. ROW  -->
 				<div class="row">
 
 

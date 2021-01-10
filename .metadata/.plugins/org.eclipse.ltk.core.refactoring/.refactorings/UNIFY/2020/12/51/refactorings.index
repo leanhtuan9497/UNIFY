@@ -1,1 +1,10 @@
 1607933271914	Move 'ckeditor' to 'WebContent'
+1608209112400	Move 'img' to 'view'
+1608209217618	Move 'arrow-down.png' to 'img'
+1608209220287	Move 'avatar.png' to 'img'
+1608209222985	Move 'check-mark.png' to 'img'
+1608209225916	Move 'notification-01.jpg' to 'img'
+1608209228315	Move 'notification-02.jpg' to 'img'
+1608209231547	Move 'notification-03.jpg' to 'img'
+1608209234827	Move 'product-image.jpg' to 'img'
+1608209238490	Delete element

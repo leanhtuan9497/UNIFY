@@ -22,3 +22,56 @@ Dec 14, 2020 21:45:37.977 [2884:6268:1214/214537.977:ERROR:entry_impl.cc(1075)] 
 Dec 14, 2020 21:45:38.248 [2884:6268:1214/214538.248:ERROR:entry_impl.cc(1075)] No file for 80000002
 Dec 14, 2020 21:45:56.887 [2884:11184:1214/214556.887:ERROR:device_event_log_impl.cc(211)] [21:45:56.888] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
 Dec 14, 2020 21:55:31.258 [1214/215531.225:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Dec 15, 2020 16:12:57.385 NEW SESSION
+Dec 15, 2020 16:12:57.385 [3156:10308:1215/161257.384:ERROR:device_event_log_impl.cc(211)] [16:12:57.383] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 15, 2020 16:12:58.43 [3156:10308:1215/161257.384:ERROR:device_event_log_impl.cc(211)] [16:12:57.383] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 15, 2020 16:13:02.117 [3156:2804:1215/161302.116:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 15, 2020 16:13:23.880 [3156:2804:1215/161323.879:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 15, 2020 16:13:28.265 [3156:10308:1215/161328.264:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Dec 15, 2020 16:13:28.850 [3156:10308:1215/161328.850:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Dec 15, 2020 16:13:29.628 [3156:10308:1215/161329.628:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Dec 15, 2020 16:16:10.456 [9900:10424:1215/161610.456:ERROR:device_event_log_impl.cc(211)] [16:16:10.456] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Dec 17, 2020 15:36:36.922 NEW SESSION
+Dec 17, 2020 15:36:36.922 [1508:6440:1217/153636.921:ERROR:device_event_log_impl.cc(211)] [15:36:36.921] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 17, 2020 15:46:17.496 [1217/154617.495:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Dec 17, 2020 15:49:54.343 [11084:10932:1217/154954.343:ERROR:database.cc(1696)] History sqlite error 5, errno 33: database is locked, sql: PRAGMA auto_vacuum
+Dec 17, 2020 15:50:09.195 [11084:4896:1217/155009.195:ERROR:device_event_log_impl.cc(211)] [15:50:09.195] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Dec 17, 2020 19:04:14.489 NEW SESSION
+Dec 17, 2020 19:04:14.489 [10696:3760:1217/190414.488:ERROR:device_event_log_impl.cc(211)] [19:04:14.488] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 17, 2020 19:14:01.596 [1217/191401.595:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Dec 20, 2020 16:03:15.417 NEW SESSION
+Dec 20, 2020 16:03:15.417 [1220/160315.415:ERROR:settings.cc(320)] Settings magic is not 1129342067
+Dec 20, 2020 16:03:18.954 [9060:4920:1220/160318.953:ERROR:block_files.cc(465)] Failed to open C:\Users\leanh\AppData\Local\Google\Chrome\User Data\Default\Application Cache\Cache\data_0
+Dec 20, 2020 16:03:18.962 [9060:9592:1220/160318.953:ERROR:disk_cache.cc(184)] Unable to create cache
+Dec 20, 2020 16:13:15.445 [1220/161315.444:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Dec 23, 2020 10:49:35.107 NEW SESSION
+Dec 23, 2020 10:49:35.108 [1396:4300:1223/104935.102:ERROR:device_event_log_impl.cc(211)] [10:49:35.103] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Dec 23, 2020 16:37:49.135 NEW SESSION
+Dec 23, 2020 16:37:49.135 [5264:5232:1223/163749.134:ERROR:device_event_log_impl.cc(211)] [16:37:49.133] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 23, 2020 16:43:48.970 [libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:123] Can't parse message of type "content.proto.CacheMetadata" because it is missing required fields: (cannot determine missing fields for lite message)
+Dec 23, 2020 16:46:39.245 [3000:4196:1223/164639.244:ERROR:device_event_log_impl.cc(211)] [16:46:39.244] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 23, 2020 16:56:24.03 [1223/165624.002:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Dec 24, 2020 13:19:15.220 NEW SESSION
+Dec 24, 2020 13:19:15.220 [5032:336:1224/131915.216:ERROR:device_event_log_impl.cc(211)] [13:19:15.217] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Dec 24, 2020 13:28:52.994 [1224/132852.992:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Dec 24, 2020 15:43:42.672 NEW SESSION
+Dec 24, 2020 15:43:42.672 [1224/154342.658:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Dec 24, 2020 15:52:37.497 [9456:3152:1224/155237.497:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Jan 07, 2021 13:27:19.31 NEW SESSION
+Jan 07, 2021 13:27:19.31 [10380:11832:0107/132719.030:ERROR:device_event_log_impl.cc(211)] [13:27:19.030] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 07, 2021 13:27:19.229 [10380:11832:0107/132719.035:ERROR:device_event_log_impl.cc(211)] [13:27:19.035] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 07, 2021 13:37:01.208 [0107/133701.207:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Jan 07, 2021 14:19:31.431 [10380:11832:0107/141931.430:ERROR:event_router.cc(714)] Event dispatched while shutting down extensions browser client.
+
+Jan 07, 2021 15:33:12.803 NEW SESSION
+Jan 07, 2021 15:33:12.803 [8332:14736:0107/153312.802:ERROR:device_event_log_impl.cc(211)] [15:33:12.802] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 07, 2021 15:42:51.501 [0107/154251.500:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)

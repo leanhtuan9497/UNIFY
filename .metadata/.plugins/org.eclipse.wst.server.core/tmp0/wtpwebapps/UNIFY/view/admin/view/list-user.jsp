@@ -39,6 +39,18 @@
 						<h5>You can edit , add, delete User</h5>
 
 					</div>
+					
+					<div class="col-md-4">
+							<a class="btn btn-primary"
+								href="<c:url value='/admin/user/add'/>" role="button"
+								>+ Add</a> 
+								<%-- <a class="btn btn-primary"
+								href="<c:url value='/admin/product/add'/>" role="button"
+								style="margin-left: 3px">
+								<span><i class="fa fa-print bigger-110 grey"></i> <span class="hidden">Print</span></span>Print</a> --%>
+
+
+						</div>
 				</div>
 				<!-- /. ROW  -->
 				<hr />
