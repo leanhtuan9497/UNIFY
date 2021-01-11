@@ -26,7 +26,7 @@ public class JDBCConnection {
 				+ ";databaseName=" + database;
 		try {
 		    Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
-			Connection conn = DriverManager.getConnection(connectionURL, "leanhtuan", "654321");
+			Connection conn = DriverManager.getConnection(connectionURL, "sa", "123654");
 			return conn;
 		} catch (SQLException | ClassNotFoundException e) {
 			e.printStackTrace();
