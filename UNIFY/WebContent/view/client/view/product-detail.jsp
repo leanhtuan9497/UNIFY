@@ -312,6 +312,52 @@
 									</ul>
 								</div>
 							</div>
+							<div class="product-comment-in">
+								<img class="product-comment-img rounded-x"
+									src="${url}/img/team/01.jpg" alt="">
+								<div class="product-comment-dtl">
+									<h4>
+										Mickel <small>22 days ago</small>
+									</h4>
+									<p>I like the green colour, it's very likeable and reminds
+										me of Hollister. A little loose though but I am very skinny</p>
+									<ul class="list-inline product-ratings">
+										<li class="reply"><a href="#">Reply</a></li>
+										<li class="pull-right">
+											<ul class="list-inline">
+												<li><i class="rating-selected fa fa-star"></i></li>
+												<li><i class="rating-selected fa fa-star"></i></li>
+												<li><i class="rating-selected fa fa-star"></i></li>
+												<li><i class="rating fa fa-star"></i></li>
+												<li><i class="rating fa fa-star"></i></li>
+											</ul>
+										</li>
+									</ul>
+								</div>
+							</div>
+							<div class="product-comment-in">
+								<img class="product-comment-img rounded-x"
+									src="${url}/img/team/01.jpg" alt="">
+								<div class="product-comment-dtl">
+									<h4>
+										Mickel <small>22 days ago</small>
+									</h4>
+									<p>I like the green colour, it's very likeable and reminds
+										me of Hollister. A little loose though but I am very skinny</p>
+									<ul class="list-inline product-ratings">
+										<li class="reply"><a href="#">Reply</a></li>
+										<li class="pull-right">
+											<ul class="list-inline">
+												<li><i class="rating-selected fa fa-star"></i></li>
+												<li><i class="rating-selected fa fa-star"></i></li>
+												<li><i class="rating-selected fa fa-star"></i></li>
+												<li><i class="rating fa fa-star"></i></li>
+												<li><i class="rating fa fa-star"></i></li>
+											</ul>
+										</li>
+									</ul>
+								</div>
+							</div>
 						</div>
 						<h3 class="heading-md margin-bottom-30">Add a review</h3>
 						<form action="${url}/php/demo-contacts-process.php" method="post"
