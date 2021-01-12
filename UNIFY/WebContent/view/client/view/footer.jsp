@@ -14,11 +14,11 @@
 						Maecenas eget nisl id libero tincidunt sodales.</p>
 					<br>
 					<ul class="list-unstyled address-list margin-bottom-20">
-						<li><i class="fa fa-angle-right"></i>Ha Noi - Viet Nam</li>
-						<li><i class="fa fa-angle-right"></i>Phone: 0973.983.546</li>
-						<li><i class="fa fa-angle-right"></i>Hotline: 01299 725 789</li>
+						<li><i class="fa fa-angle-right"></i>Da Nang - Viet Nam</li>
+						<li><i class="fa fa-angle-right"></i>Phone: 083 463 1357</li>
+						<li><i class="fa fa-angle-right"></i>Hotline: 1900 0091</li>
 						<li><i class="fa fa-angle-right"></i>Email:
-							maiviensoftware@gmail.com</li>
+							leanhtuan9497@gmail.com</li>
 					</ul>
 
 					<ul class="list-inline shop-social">
@@ -143,9 +143,9 @@
 			<div class="row">
 				<div class="col-md-6">
 					<p>
-						2018 &copy; Development by vienmv <a target="_blank"
-							href="https://www.facebook.com/vienmv.th">Htmlstream</a> | <a
-							href="#">Privacy Policy</a> | <a href="#">Terms of Service</a>
+						2021 &copy; Development by Tuan <a target="_blank" href="fb.com">Htmlstream</a>
+						| <a href="#">Privacy Policy</a> | <a href="#">Terms of
+							Service</a>
 					</p>
 				</div>
 				<div class="col-md-6">
